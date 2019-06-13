@@ -86,7 +86,7 @@ function toggleAudio() {
 
 function textHandler() {
   txtNotes.remove();
-  txtNotes = createDiv('<p>'+txtArr[indNum]+'</p>');
+  txtNotes = createDiv('<p>'+txtArr[indNum]+'<div class = "att"></br>-Jean-luc Nancy, <i>Corpus, 1992:(Trans. R.A. Rand)</i></div>'+'</p>');
   txtNotes.addClass("txt-note");
 }
 
