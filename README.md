@@ -6,9 +6,20 @@ The project presented here grew out of a collaboration with AMAE, Pier Giorgio D
 
 Later the artist recorded additional Soundworks and musical pieces incorporating Nancy's indexes, a portion of which will be set to dance as part of the 63 Videos on the Body project.
 
-The current piece collects all of the artists sonic/musical work for the project to date. These works are presented in the form of a web app. The audience is invited to listen to the pieces, and reflect on the indices which have been translated into English from Nancy's native French by Richard A. Rand for the Perspectives in Continental Philosophy Series.  
+The current piece collects all of the artists sonic/musical work for the project to date. These works are presented in the form of a web app. The audience is invited to listen to the pieces, and reflect on the indices which have been translated into English from Nancy's native French by Richard A. Rand for the Perspectives in Continental Philosophy Series.
 
-The piece can be made available for the audience listening online using the web app, and it can also be installed and set to play automatically in place over a pair of stereo speakers, although this is obviously not a site-specific piece.  
+The text is analysed using a machine learning model for sentiment analysis (implemented in ml5.js). This analysis returns a value on a scale of 0 (negative) to 1 (positive).
+This sentiment is reflected in the color of the waveform that is drawn across on the screen.
+
+The piece is a reflection on translations across languages, vocalisation, and technologies.
+The original indices were written in French. Jean-luc Nancy's reading of them introduces a new layer of meaning through his use of prosody and intonation. 
+We are presented with English translations of the text that must to some degree reflect the choices and interpretations of the translator. The sentiment analysis introduces an additional another layer of meaning/distortion. It does not always represent the translated text very well and rarely represents the information conveyed in Nancy's vocalisations in the original French. The choice of color in reflecting the sentiment values introduce further culturally conditioned ideas about sentiment and emotion. It also the crude nature of the original model which aims to represent sentiment along a linear scale from positive to negative: 0-1. The use of sonic and musical materials to frame the texts introduces yet another layer of meanings and distortions. The soundworlds evoked do not always match the indices, sometimes they are built around the ebb and flow of Nancy's vocalisations as he reads, other times they seem completely random. Rarely are the voice, sound and sentiment analysis in harmony with one another. 
+The discordant configuration however is in perfect harmony with Nancy's vision of the human body as expressed in his indices. As Nancy comments in index 46: 
+"Why indices? Because there's no totality to the body, no synthetic unity. There are pieces, zones, fragments. There's one bit after another, a stomach, an eyelash, a thumb-nail, a shoulder, a breast, a nose, an upper intestine, a choledoch, a pancreas: anatomy is endless, until eventually running into an exhaustive enumeration of cells. But this doesn't yield a totality...""
+
+
+The piece can be installed using two stereo speakers and a screen at the conference/festival (screen can be provided by the artist.
+The piece can also be made available for the audience to experience at the conference online via the Web App.
 
 In the interests of anonymity, the name of the artist has not been provided. 
 
@@ -20,11 +31,12 @@ Directions:
 [Click Here for the Piece] (https://appdemo-lgtm.github.io/JLNProjectISSTA/)
 
 
+
+
 ## Credits
 
 This project builds on code originally created by Yannis Yannakopoulos at codrops and is powered by p5js and its p5.sound library. By Yannis Yannakopoulos [Twitter](https://twitter.com/neundex) [GitHub](https://github.com/codrops)- [p5js](http://www.p5js.org)
 
 ## License
 This resource can be used freely if integrated or build upon in personal or commercial projects such as websites, web apps and web templates intended for sale. It is not allowed to take the resource "as-is" and sell it, redistribute, re-publish it, or sell "pluginized" versions of it. Free plugins built using this resource should have a visible mention and link to the original work. Always consider the licenses of all included libraries, scripts and images used.
-
 
