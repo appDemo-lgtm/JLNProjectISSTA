@@ -1,4 +1,4 @@
-## Indices on the Body
+## 58 Indices On The Body: A Reflection on Translations through Language, Technology and Sounds - Selected Indices Soundworks and Musical Pieces w/Sentiment Analysis
 This project grew in dialogue with another ongoing project titled 58+1 Indices on the body. That project is a collaboration between the artistic collective AMAE and the artist Pier Giorgio De Pinto. The topics come from the treaty 58 indices sur le corps (Editor’s note 58 indices on the body), written in 2006 by Jean-Luc Nancy and related to his book Corpus. The project combines performances, videos, interactive installations and collaborations with many artists.
 
 As part of this project Jean Luc Nancy recorded himself reading the 58 indices on the body he included in the book 'Corpus', he also wrote an additional index specifically for the project. 
