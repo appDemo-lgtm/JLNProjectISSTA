@@ -13,6 +13,11 @@ The piece can be made available for the audience listening online using the web 
 In the interests of anonymity, the name of the artist has not been provided. 
 
 ## The Piece:
+Directions:
+1. Press Play Index to hear an index and see the translation.
+2. Press Play Index again to hear another one. 
+
+[Click Here for the Piece] (https://appDemo-lgtm.github.io/JLNProjectISSTA)
 
 
 ## Credits
