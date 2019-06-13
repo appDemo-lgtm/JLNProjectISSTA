@@ -2,6 +2,7 @@
 
 [Click Here for the Piece] (https://appdemo-lgtm.github.io/JLNProjectISSTA/)
 
+In the interests of anonymity, the name of the artist has not been provided. 
 
 This project grew in dialogue with another ongoing project titled 58+1 Indices on the body. That project is a collaboration between the artistic collective AMAE and the artist Pier Giorgio De Pinto. The topics come from the treaty 58 indices sur le corps (Editor’s note 58 indices on the body), written in 2006 by Jean-Luc Nancy and related to his book Corpus. The project combines performances, videos, interactive installations and collaborations with many artists.
 
@@ -18,19 +19,25 @@ This sentiment is reflected in the color of the waveform that is drawn across on
 The piece is a reflection on translations across languages, vocalisation, and technologies.
 The original indices were written in French. Jean-luc Nancy's reading of them introduces a new layer of meaning through his use of prosody and intonation. 
 We are presented with English translations of the text that must to some degree reflect the choices and interpretations of the translator. The sentiment analysis introduces an additional another layer of meaning/distortion. It does not always represent the translated text very well and rarely represents the information conveyed in Nancy's vocalisations in the original French. The choice of color in reflecting the sentiment values introduce further culturally conditioned ideas about sentiment and emotion. It also the crude nature of the original model which aims to represent sentiment along a linear scale from positive to negative: 0-1. The use of sonic and musical materials to frame the texts introduces yet another layer of meanings and distortions. The soundworlds evoked do not always match the indices, sometimes they are built around the ebb and flow of Nancy's vocalisations as he reads, other times they seem completely random. All of this again is filtered through the artist's speciffic presentation of these materials. The design and technical implementation of the application along with their interpretation of Nancy's speech and the choices in the design and composition of the soundworlds. All of these introduce layers of meaning and distortion particular to the artist. Rarely are the voice, sound and sentiment analysis in harmony with one another. 
-The discordant configuration however is in perfect harmony with Nancy's vision of the human body as expressed in his indices. As Nancy comments in index 46: 
-"Why indices? Because there's no totality to the body, no synthetic unity. There are pieces, zones, fragments. There's one bit after another, a stomach, an eyelash, a thumb-nail, a shoulder, a breast, a nose, an upper intestine, a choledoch, a pancreas: anatomy is endless, until eventually running into an exhaustive enumeration of cells. But this doesn't yield a totality...""
+This discordant configuration however is in perfect harmony with Nancy's vision of the human body as expressed in his indices. As Nancy comments in index 46: 
+"Why indices? Because there's no totality to the body, no synthetic unity. There are pieces, zones, fragments. There's one bit after another, a stomach, an eyelash, a thumb-nail, a shoulder, a breast, a nose, an upper intestine, a choledoch, a pancreas: anatomy is endless, until eventually running into an exhaustive enumeration of cells. But this doesn't yield a totality..."
 
+##Directions:
+1. Follow link for the Piece: [Click Here for the Piece] (https://appdemo-lgtm.github.io/JLNProjectISSTA/)
+2. Press Play Index to hear an index and see the translation.
+3. Press Play Index again to hear another one.
 
-The piece can be installed using two stereo speakers and a screen at the conference/festival (screen can be provided by the artist.
+##Technical/Performance Requirements: 
+
+The audio is mixed for a standard stereo setup. 
+The entire performance is available as a web app. The piece can be installed using two stereo speakers and a screen at the conference/festival (screen can be provided by the artist).
 The piece can also be made available for the audience to experience at the conference online via the Web App.
+This can be launched locally from a laptop or accessed online during the performance.
+(The implementation of the visuals will be furthered refined before the performance but the chosen aesthetic will remain intact.) 
 
-In the interests of anonymity, the name of the artist has not been provided. 
+##Link to Piece Online:
 
-## The Piece:
-Directions:
-1. Press Play Index to hear an index and see the translation.
-2. Press Play Index again to hear another one. 
+https://appdemo-lgtm.github.io/JLNProjectISSTA/
 
 [Click Here for the Piece] (https://appdemo-lgtm.github.io/JLNProjectISSTA/)
 
