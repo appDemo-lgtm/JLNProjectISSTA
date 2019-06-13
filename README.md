@@ -17,7 +17,7 @@ Directions:
 1. Press Play Index to hear an index and see the translation.
 2. Press Play Index again to hear another one. 
 
-[Click Here for the Piece] (https://appDemo-lgtm.github.io/JLNProjectISSTA)
+[Click Here for the Piece] (https://appdemo-lgtm.github.io/JLNProjectISSTA/)
 
 
 ## Credits
