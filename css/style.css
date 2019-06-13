@@ -169,6 +169,10 @@ canvas {
 
 }
 
+.att {
+	text-align: right;
+}
+
 
 @media screen and (max-width: 55em) {
 
