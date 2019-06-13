@@ -41,7 +41,7 @@ function setup() {
     fft = new p5.FFT();
     fft.setInput(audio);
 
-    txtNotes = createDiv('<p>Indices On The Body</p>');
+    txtNotes = createDiv('<p>Indices On The Body - A Selection of Soundworks and Musical Pieces Incorporating </p>');
     txtNotes.addClass("txt-note");
 
   //  cover = createDiv('<img src="lib/cover.jpg"></img>');
